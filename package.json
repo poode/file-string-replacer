@@ -1,0 +1,29 @@
+{
+  "name": "replace-string-in-file",
+  "version": "0.0.1",
+  "description": "replace string list in file with another string list",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/poode/file-string-replacer"
+  },
+  "keywords": [
+    "replace",
+    "string",
+    "list",
+    "in",
+    "file",
+    "with",
+    "another",
+    "string",
+    "list"
+  ],
+  "author": "eng.abdul.azeem@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "line-reader": "^0.4.0"
+  }
+}
